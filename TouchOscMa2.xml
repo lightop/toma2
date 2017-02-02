@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.2.2/MA.xsd" major_vers="3" minor_vers="2" stream_vers="2">
+	<Info datetime="2017-02-01T17:38:06" showfile="testshow" />
+	<MidiRemotes index="1">
+		<RemoteMidi index="0" note="1" channel="3" type="hardkey" tasten_code="View1" />
+		<RemoteMidi index="1" note="2" channel="3" type="hardkey" tasten_code="View2" />
+		<RemoteMidi index="2" note="3" channel="3" type="hardkey" tasten_code="View3" />
+		<RemoteMidi index="3" note="4" channel="3" type="hardkey" tasten_code="View4" />
+		<RemoteMidi index="4" note="5" channel="3" type="hardkey" tasten_code="View5" />
+		<RemoteMidi index="5" note="6" channel="3" type="hardkey" tasten_code="View6" />
+		<RemoteMidi index="6" note="7" channel="3" type="hardkey" tasten_code="View7" />
+		<RemoteMidi index="7" note="8" channel="3" type="hardkey" tasten_code="View8" />
+		<RemoteMidi index="8" note="9" channel="3" type="hardkey" tasten_code="View9" />
+		<RemoteMidi index="9" note="10" channel="3" type="hardkey" tasten_code="View10" />
+		<RemoteMidi index="10" note="1" channel="1" type="exec" button_type="fader" />
+		<RemoteMidi index="11" note="2" channel="1" type="exec" exec="1" button_type="fader" />
+		<RemoteMidi index="12" note="3" channel="1" type="exec" exec="2" button_type="fader" />
+		<RemoteMidi index="13" note="4" channel="1" type="exec" exec="3" button_type="fader" />
+		<RemoteMidi index="14" note="5" channel="1" type="exec" exec="4" button_type="fader" />
+		<RemoteMidi index="15" note="6" channel="1" type="exec" />
+		<RemoteMidi index="16" note="7" channel="1" type="exec" exec="1" />
+		<RemoteMidi index="17" note="8" channel="1" type="exec" exec="2" />
+		<RemoteMidi index="18" note="9" channel="1" type="exec" exec="3" />
+		<RemoteMidi index="19" note="10" channel="1" type="exec" exec="4" />
+		<RemoteMidi index="20" note="11" channel="1" type="exec" button_type="above_fader" />
+		<RemoteMidi index="21" note="12" channel="1" type="exec" exec="1" button_type="above_fader" />
+		<RemoteMidi index="22" note="13" channel="1" type="exec" exec="2" button_type="above_fader" />
+		<RemoteMidi index="23" note="14" channel="1" type="exec" exec="3" button_type="above_fader" />
+		<RemoteMidi index="24" note="15" channel="1" type="exec" exec="4" button_type="above_fader" />
+		<RemoteMidi index="25" note="16" channel="1" type="exec" button_type="top" />
+		<RemoteMidi index="26" note="17" channel="1" type="exec" exec="1" button_type="top" />
+		<RemoteMidi index="27" note="18" channel="1" type="exec" exec="2" button_type="top" />
+		<RemoteMidi index="28" note="19" channel="1" type="exec" exec="3" button_type="top" />
+		<RemoteMidi index="29" note="20" channel="1" type="exec" exec="4" button_type="top" />
+		<RemoteMidi index="30" note="21" channel="1" type="exec" exec="5" button_type="fader" />
+		<RemoteMidi index="31" note="22" channel="1" type="exec" exec="6" button_type="fader" />
+		<RemoteMidi index="32" note="23" channel="1" type="exec" exec="7" button_type="fader" />
+		<RemoteMidi index="33" note="24" channel="1" type="exec" exec="8" button_type="fader" />
+		<RemoteMidi index="34" note="25" channel="1" type="exec" exec="9" button_type="fader" />
+		<RemoteMidi index="35" note="26" channel="1" type="exec" exec="5" />
+		<RemoteMidi index="36" note="27" channel="1" type="exec" exec="6" />
+		<RemoteMidi index="37" note="28" channel="1" type="exec" exec="7" />
+		<RemoteMidi index="38" note="29" channel="1" type="exec" exec="8" />
+		<RemoteMidi index="39" note="30" channel="1" type="exec" exec="9" />
+		<RemoteMidi index="40" note="31" channel="1" type="exec" exec="5" button_type="above_fader" />
+		<RemoteMidi index="41" note="32" channel="1" type="exec" exec="6" button_type="above_fader" />
+		<RemoteMidi index="42" note="33" channel="1" type="exec" exec="7" button_type="above_fader" />
+		<RemoteMidi index="43" note="34" channel="1" type="exec" exec="8" button_type="above_fader" />
+		<RemoteMidi index="44" note="35" channel="1" type="exec" exec="9" button_type="above_fader" />
+		<RemoteMidi index="45" note="36" channel="1" type="exec" exec="5" button_type="top" />
+		<RemoteMidi index="46" note="37" channel="1" type="exec" exec="6" button_type="top" />
+		<RemoteMidi index="47" note="38" channel="1" type="exec" exec="7" button_type="top" />
+		<RemoteMidi index="48" note="39" channel="1" type="exec" exec="8" button_type="top" />
+		<RemoteMidi index="49" note="40" channel="1" type="exec" exec="9" button_type="top" />
+		<RemoteMidi index="50" note="41" channel="1" type="exec" exec="10" button_type="fader" />
+		<RemoteMidi index="51" note="42" channel="1" type="exec" exec="11" button_type="fader" />
+		<RemoteMidi index="52" note="43" channel="1" type="exec" exec="12" button_type="fader" />
+		<RemoteMidi index="53" note="44" channel="1" type="exec" exec="13" button_type="fader" />
+		<RemoteMidi index="54" note="45" channel="1" type="exec" exec="14" button_type="fader" />
+		<RemoteMidi index="55" note="46" channel="1" type="exec" exec="10" />
+		<RemoteMidi index="56" note="47" channel="1" type="exec" exec="11" />
+		<RemoteMidi index="57" note="48" channel="1" type="exec" exec="12" />
+		<RemoteMidi index="58" note="49" channel="1" type="exec" exec="13" />
+		<RemoteMidi index="59" note="50" channel="1" type="exec" exec="14" />
+		<RemoteMidi index="60" note="51" channel="1" type="exec" exec="10" button_type="above_fader" />
+		<RemoteMidi index="61" note="52" channel="1" type="exec" exec="11" button_type="above_fader" />
+		<RemoteMidi index="62" note="53" channel="1" type="exec" exec="12" button_type="above_fader" />
+		<RemoteMidi index="63" note="54" channel="1" type="exec" exec="13" button_type="above_fader" />
+		<RemoteMidi index="64" note="55" channel="1" type="exec" exec="14" button_type="above_fader" />
+		<RemoteMidi index="65" note="56" channel="1" type="exec" exec="10" button_type="top" />
+		<RemoteMidi index="66" note="57" channel="1" type="exec" exec="11" button_type="top" />
+		<RemoteMidi index="67" note="58" channel="1" type="exec" exec="12" button_type="top" />
+		<RemoteMidi index="68" note="59" channel="1" type="exec" exec="13" button_type="top" />
+		<RemoteMidi index="69" note="60" channel="1" type="exec" exec="14" button_type="top" />
+		<RemoteMidi index="70" note="61" channel="1" type="exec" exec="100" />
+		<RemoteMidi index="71" note="62" channel="1" type="exec" exec="101" />
+		<RemoteMidi index="72" note="63" channel="1" type="exec" exec="102" />
+		<RemoteMidi index="73" note="64" channel="1" type="exec" exec="103" />
+		<RemoteMidi index="74" note="65" channel="1" type="exec" exec="104" />
+		<RemoteMidi index="75" note="66" channel="1" type="exec" exec="105" />
+		<RemoteMidi index="76" note="67" channel="1" type="exec" exec="106" />
+		<RemoteMidi index="77" note="68" channel="1" type="exec" exec="107" />
+		<RemoteMidi index="78" note="69" channel="1" type="exec" exec="108" />
+		<RemoteMidi index="79" note="70" channel="1" type="exec" exec="109" />
+		<RemoteMidi index="80" note="71" channel="1" type="exec" exec="110" />
+		<RemoteMidi index="81" note="72" channel="1" type="exec" exec="111" />
+		<RemoteMidi index="82" note="73" channel="1" type="exec" exec="112" />
+		<RemoteMidi index="83" note="74" channel="1" type="exec" exec="113" />
+		<RemoteMidi index="84" note="75" channel="1" type="exec" exec="114" />
+		<RemoteMidi index="85" note="1" channel="2" type="hardkey" tasten_code="1" />
+		<RemoteMidi index="86" note="2" channel="2" type="hardkey" tasten_code="2" />
+		<RemoteMidi index="87" note="3" channel="2" type="hardkey" tasten_code="3" />
+		<RemoteMidi index="88" note="4" channel="2" type="hardkey" tasten_code="4" />
+		<RemoteMidi index="89" note="5" channel="2" type="hardkey" tasten_code="5" />
+		<RemoteMidi index="90" note="6" channel="2" type="hardkey" tasten_code="6" />
+		<RemoteMidi index="91" note="7" channel="2" type="hardkey" tasten_code="7" />
+		<RemoteMidi index="92" note="8" channel="2" type="hardkey" tasten_code="8" />
+		<RemoteMidi index="93" note="9" channel="2" type="hardkey" tasten_code="9" />
+		<RemoteMidi index="94" note="10" channel="2" type="hardkey" tasten_code="0" />
+		<RemoteMidi index="95" note="11" channel="2" type="hardkey" tasten_code="Dot" />
+		<RemoteMidi index="96" note="12" channel="2" type="hardkey" tasten_code="If" />
+		<RemoteMidi index="97" note="13" channel="2" type="hardkey" tasten_code="At" />
+		<RemoteMidi index="98" note="14" channel="2" type="hardkey" tasten_code="Minus" />
+		<RemoteMidi index="99" note="15" channel="2" type="hardkey" tasten_code="Thru" />
+		<RemoteMidi index="100" note="16" channel="2" type="hardkey" tasten_code="Plus" />
+		<RemoteMidi index="101" note="17" channel="2" type="hardkey" tasten_code="MA" />
+		<RemoteMidi index="102" note="18" channel="2" type="hardkey" tasten_code="Please" />
+		<RemoteMidi index="103" note="19" channel="2" type="hardkey" tasten_code="Up" />
+		<RemoteMidi index="104" note="20" channel="2" type="hardkey" tasten_code="Previous" />
+		<RemoteMidi index="105" note="21" channel="2" type="hardkey" tasten_code="Set" />
+		<RemoteMidi index="106" note="22" channel="2" type="hardkey" tasten_code="Next" />
+		<RemoteMidi index="107" note="23" channel="2" type="hardkey" tasten_code="Down" />
+		<RemoteMidi index="108" note="24" channel="2" type="hardkey" tasten_code="Time" />
+		<RemoteMidi index="109" note="25" channel="2" type="hardkey" tasten_code="Escape" />
+		<RemoteMidi index="110" note="26" channel="2" type="hardkey" tasten_code="Encoder" />
+		<RemoteMidi index="111" note="27" channel="2" />
+		<RemoteMidi index="112" note="28" channel="2" />
+		<RemoteMidi index="113" note="29" channel="2" type="hardkey" tasten_code="Tools" />
+		<RemoteMidi index="114" note="30" channel="2" type="hardkey" tasten_code="Setup" />
+		<RemoteMidi index="115" note="31" channel="2" type="hardkey" tasten_code="Backup" />
+		<RemoteMidi index="116" note="32" channel="2" type="hardkey" tasten_code="Edit" />
+		<RemoteMidi index="117" note="33" channel="2" type="hardkey" tasten_code="Oops" />
+		<RemoteMidi index="118" note="34" channel="2" type="hardkey" tasten_code="Blind" />
+		<RemoteMidi index="119" note="35" channel="2" type="hardkey" tasten_code="Freeze" />
+		<RemoteMidi index="120" note="36" channel="2" type="hardkey" tasten_code="Preview" />
+		<RemoteMidi index="121" note="37" channel="2" type="hardkey" tasten_code="Assign" />
+		<RemoteMidi index="122" note="38" channel="2" type="hardkey" tasten_code="Align" />
+		<RemoteMidi index="123" note="39" channel="2" type="hardkey" tasten_code="Help" />
+		<RemoteMidi index="124" note="40" channel="2" type="hardkey" tasten_code="Update" />
+		<RemoteMidi index="125" note="41" channel="2" type="hardkey" tasten_code="Clear" />
+		<RemoteMidi index="126" note="42" channel="2" type="hardkey" tasten_code="Fix" />
+		<RemoteMidi index="127" note="43" channel="2" type="hardkey" tasten_code="Select" />
+		<RemoteMidi index="128" note="44" channel="2" type="hardkey" tasten_code="Off" />
+		<RemoteMidi index="129" note="45" channel="2" type="hardkey" tasten_code="View" />
+		<RemoteMidi index="130" note="46" channel="2" type="hardkey" tasten_code="Effect" />
+		<RemoteMidi index="131" note="47" channel="2" type="hardkey" tasten_code="Goto" />
+		<RemoteMidi index="132" note="48" channel="2" type="hardkey" tasten_code="Store" />
+		<RemoteMidi index="133" note="49" channel="2" />
+		<RemoteMidi index="134" note="50" channel="2" type="hardkey" tasten_code="Temp" />
+		<RemoteMidi index="135" note="51" channel="2" type="hardkey" tasten_code="Top" />
+		<RemoteMidi index="136" note="52" channel="2" type="hardkey" tasten_code="On" />
+		<RemoteMidi index="137" note="53" channel="2" type="hardkey" tasten_code="Page" />
+		<RemoteMidi index="138" note="54" channel="2" type="hardkey" tasten_code="Macro" />
+		<RemoteMidi index="139" note="55" channel="2" type="hardkey" tasten_code="Preset" />
+		<RemoteMidi index="140" note="56" channel="2" type="hardkey" tasten_code="Background" />
+		<RemoteMidi index="141" note="57" channel="2" />
+		<RemoteMidi index="142" note="58" channel="2" type="hardkey" tasten_code="&lt;&lt;&lt;" />
+		<RemoteMidi index="143" note="59" channel="2" type="hardkey" tasten_code="Learn" />
+		<RemoteMidi index="144" note="60" channel="2" type="hardkey" tasten_code="&gt;&gt;&gt;" />
+		<RemoteMidi index="145" note="61" channel="2" type="hardkey" tasten_code="Sequence" />
+		<RemoteMidi index="146" note="62" channel="2" type="hardkey" tasten_code="Cue" />
+		<RemoteMidi index="147" note="63" channel="2" type="hardkey" tasten_code="Executor" />
+		<RemoteMidi index="148" note="64" channel="2" type="hardkey" tasten_code="User1" />
+		<RemoteMidi index="149" note="65" channel="2" type="hardkey" tasten_code="GoMinus" />
+		<RemoteMidi index="150" note="66" channel="2" type="hardkey" tasten_code="Pause" />
+		<RemoteMidi index="151" note="67" channel="2" type="hardkey" tasten_code="GoPlus" />
+		<RemoteMidi index="152" note="68" channel="2" type="hardkey" tasten_code="Channel" />
+		<RemoteMidi index="153" note="69" channel="2" type="hardkey" tasten_code="Fixture" />
+		<RemoteMidi index="154" note="70" channel="2" type="hardkey" tasten_code="Group" />
+		<RemoteMidi index="155" note="71" channel="2" type="hardkey" tasten_code="User2" />
+		<RemoteMidi index="156" note="72" channel="2" type="hardkey" tasten_code="Delete" />
+		<RemoteMidi index="157" note="73" channel="2" type="hardkey" tasten_code="Copy" />
+		<RemoteMidi index="158" note="74" channel="2" type="hardkey" tasten_code="Move" />
+		<RemoteMidi index="159" note="75" channel="2" type="hardkey" tasten_code="Blackout" />
+		<RemoteMidi index="160" note="76" channel="2" type="hardkey" tasten_code="Full" />
+		<RemoteMidi index="161" note="77" channel="2" type="hardkey" tasten_code="Highlight" />
+		<RemoteMidi index="162" note="78" channel="2" type="hardkey" tasten_code="Solo" />
+		<RemoteMidi index="163" note="79" channel="2" type="hardkey" tasten_code="List" />
+		<RemoteMidi index="164" note="1" channel="4" type="hardkey" tasten_code="X1" />
+		<RemoteMidi index="165" note="2" channel="4" type="hardkey" tasten_code="X2" />
+		<RemoteMidi index="166" note="3" channel="4" type="hardkey" tasten_code="X3" />
+		<RemoteMidi index="167" note="4" channel="4" type="hardkey" tasten_code="X4" />
+		<RemoteMidi index="168" note="5" channel="4" type="hardkey" tasten_code="X5" />
+		<RemoteMidi index="169" note="6" channel="4" type="hardkey" tasten_code="X6" />
+		<RemoteMidi index="170" note="7" channel="4" type="hardkey" tasten_code="X7" />
+		<RemoteMidi index="171" note="8" channel="4" type="hardkey" tasten_code="X8" />
+		<RemoteMidi index="172" note="9" channel="4" type="hardkey" tasten_code="X9" />
+		<RemoteMidi index="173" note="10" channel="4" type="hardkey" tasten_code="X10" />
+		<RemoteMidi index="174" note="11" channel="4" type="hardkey" tasten_code="X11" />
+		<RemoteMidi index="175" note="12" channel="4" type="hardkey" tasten_code="X12" />
+		<RemoteMidi index="176" note="13" channel="4" type="hardkey" tasten_code="X13" />
+		<RemoteMidi index="177" note="14" channel="4" type="hardkey" tasten_code="X14" />
+		<RemoteMidi index="178" note="15" channel="4" type="hardkey" tasten_code="X15" />
+		<RemoteMidi index="179" note="16" channel="4" type="hardkey" tasten_code="X16" />
+		<RemoteMidi index="180" note="17" channel="4" type="hardkey" tasten_code="X17" />
+		<RemoteMidi index="181" note="18" channel="4" type="hardkey" tasten_code="X18" />
+		<RemoteMidi index="182" note="19" channel="4" type="hardkey" tasten_code="X19" />
+		<RemoteMidi index="183" note="20" channel="4" type="hardkey" tasten_code="X20" />
+		<RemoteMidi index="184" note="21" channel="4" type="hardkey" tasten_code="ChannelPagePlus" />
+		<RemoteMidi index="185" note="22" channel="4" type="hardkey" tasten_code="FaderPagePlus" />
+		<RemoteMidi index="186" note="23" channel="4" type="hardkey" tasten_code="ButtonPagePlus" />
+		<RemoteMidi index="187" note="24" channel="4" type="hardkey" tasten_code="ChannelPageMinus" />
+		<RemoteMidi index="188" note="25" channel="4" type="hardkey" tasten_code="FaderPageMinus" />
+		<RemoteMidi index="189" note="26" channel="4" type="hardkey" tasten_code="ButtonPageMinus" />
+		<RemoteMidi index="190" note="27" channel="4" type="hardkey" tasten_code="DefPause" />
+		<RemoteMidi index="191" note="28" channel="4" type="hardkey" tasten_code="DefGoMinus" />
+		<RemoteMidi index="192" note="29" channel="4" type="hardkey" tasten_code="DefGoPlus" />
+	</MidiRemotes>
+</MA>
