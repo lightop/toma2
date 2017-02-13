@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.2.2/MA.xsd" major_vers="3" minor_vers="2" stream_vers="2">
+	<Info datetime="2017-02-13T14:07:01" showfile="touchoscsetup" />
+	<MidiRemotes index="1">
+		<RemoteMidi index="0" />
+		<RemoteMidi index="1" note="1" type="exec" button_type="fader" />
+		<RemoteMidi index="2" note="2" type="exec" exec="1" button_type="fader" />
+		<RemoteMidi index="3" note="3" type="exec" exec="2" button_type="fader" />
+		<RemoteMidi index="4" note="4" type="exec" exec="3" button_type="fader" />
+		<RemoteMidi index="5" note="5" type="exec" exec="4" button_type="fader" />
+		<RemoteMidi index="6" note="6" type="exec" exec="5" button_type="fader" />
+		<RemoteMidi index="7" note="7" type="exec" button_type="above_fader" />
+		<RemoteMidi index="8" note="8" type="exec" exec="1" button_type="above_fader" />
+		<RemoteMidi index="9" note="9" type="exec" exec="2" button_type="above_fader" />
+		<RemoteMidi index="10" note="10" type="exec" exec="3" button_type="above_fader" />
+		<RemoteMidi index="11" note="11" type="exec" exec="4" button_type="above_fader" />
+		<RemoteMidi index="12" note="12" type="exec" exec="5" button_type="above_fader" />
+		<RemoteMidi index="13" note="13" type="exec" />
+		<RemoteMidi index="14" note="14" type="exec" exec="1" />
+		<RemoteMidi index="15" note="15" type="exec" exec="2" />
+		<RemoteMidi index="16" note="16" type="exec" exec="3" />
+		<RemoteMidi index="17" note="17" type="exec" exec="4" />
+		<RemoteMidi index="18" note="18" type="exec" exec="5" />
+		<RemoteMidi index="19" note="19" type="exec" exec="100" />
+		<RemoteMidi index="20" note="20" type="exec" exec="101" />
+		<RemoteMidi index="21" note="21" type="exec" exec="102" />
+		<RemoteMidi index="22" note="22" type="exec" exec="103" />
+		<RemoteMidi index="23" note="23" type="exec" exec="104" />
+		<RemoteMidi index="24" note="24" type="exec" exec="105" />
+		<RemoteMidi index="25" note="25" type="exec" exec="200" />
+		<RemoteMidi index="26" note="26" type="exec" exec="201" />
+		<RemoteMidi index="27" note="27" type="exec" exec="202" />
+		<RemoteMidi index="28" note="28" type="exec" exec="203" />
+		<RemoteMidi index="29" note="29" type="exec" exec="204" />
+		<RemoteMidi index="30" note="30" type="exec" exec="205" />
+		<RemoteMidi index="31" note="31" type="macro_line">
+			<macro_line>Fix</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="32" note="32" type="macro_line">
+			<macro_line>SelFix</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="33" note="33" type="macro_line">
+			<macro_line>Off</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="34" note="34" type="macro_line">
+			<macro_line>Toggle</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="35" note="35" type="macro_line">
+			<macro_line>Flash</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="36" note="36" type="macro_line">
+			<macro_line>On</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="37" note="37" type="macro_line">
+			<macro_line>&lt;&lt;&lt;</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="38" note="38" type="macro_line">
+			<macro_line>Speed</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="39" note="39" type="macro_line">
+			<macro_line>&gt;&gt;&gt;</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="40" note="40" type="macro_line">
+			<macro_line>GoBack</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="41" note="41" type="macro_line">
+			<macro_line>Pause</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="42" note="42" type="macro_line">
+			<macro_line>Go</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="43" note="43" type="macro_line">
+			<macro_line>DoView</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="44" note="44" type="macro_line">
+			<macro_line>Effect</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="45" note="45" type="macro_line">
+			<macro_line>Goto</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="46" note="46" type="macro_line">
+			<macro_line>Page</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="47" note="47" type="macro_line">
+			<macro_line>Macro</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="48" note="48" type="macro_line">
+			<macro_line>Preset</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="49" note="49" type="macro_line">
+			<macro_line>Magic</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="50" note="50" type="macro_line">
+			<macro_line>Cue</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="51" note="51" type="macro_line">
+			<macro_line>Executor</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="52" note="52" type="macro_line">
+			<macro_line>Dmx</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="53" note="53" type="macro_line">
+			<macro_line>Fixture</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="54" note="54" type="macro_line">
+			<macro_line>Group</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="55" note="55" type="macro_line">
+			<macro_line>Delete</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="56" note="56" type="macro_line">
+			<macro_line>Copy</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="57" note="57" type="macro_line">
+			<macro_line>Move</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="58" note="58" type="macro_line">
+			<macro_line>Full</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="59" note="59" type="macro_line">
+			<macro_line>Highlight</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="60" note="60" type="macro_line">
+			<macro_line>Blind</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="61" note="61" type="macro_line">
+			<macro_line>Help</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="62" note="62" type="macro_line">
+			<macro_line>Preview</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="63" note="63" type="macro_line">
+			<macro_line>Label</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="64" note="64" type="macro_line">
+			<macro_line>Align</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="65" note="65" type="macro_line">
+			<macro_line>Tools</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="66" note="66" type="macro_line">
+			<macro_line>Setup</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="67" note="67" type="macro_line">
+			<macro_line>Backup</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="68" note="68" type="macro_line">
+			<macro_line>Time</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="69" note="69" type="macro_line">
+			<macro_line>Edit</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="70" note="70" type="macro_line">
+			<macro_line>Update</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="71" note="71" type="macro_line">
+			<macro_line>Store</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="72" note="72" type="macro_line">
+			<macro_line>Escape</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="73" note="73" type="macro_line">
+			<macro_line>Oops</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="74" note="74" type="macro_line">
+			<macro_line>Clear</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="75" note="75" type="macro_line">
+			<macro_line>Page +</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="76" note="76" type="macro_line">
+			<macro_line>Page -</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="77" note="77" />
+		<RemoteMidi index="78" note="78" />
+		<RemoteMidi index="79" note="79" />
+		<RemoteMidi index="80" note="80" />
+		<RemoteMidi index="81" note="81" />
+		<RemoteMidi index="82" note="82" />
+		<RemoteMidi index="83" note="83" />
+		<RemoteMidi index="84" note="84" />
+		<RemoteMidi index="85" note="85" />
+		<RemoteMidi index="86" note="86" />
+		<RemoteMidi index="87" note="87" />
+		<RemoteMidi index="88" note="88" />
+		<RemoteMidi index="89" note="89" />
+		<RemoteMidi index="90" note="90" />
+		<RemoteMidi index="91" note="91" />
+		<RemoteMidi index="92" note="92" />
+		<RemoteMidi index="93" note="93" />
+		<RemoteMidi index="94" note="94" />
+		<RemoteMidi index="95" note="95" />
+		<RemoteMidi index="96" note="96" />
+		<RemoteMidi index="97" note="97" />
+		<RemoteMidi index="98" note="98" />
+		<RemoteMidi index="99" note="99" />
+		<RemoteMidi index="100" note="100" />
+		<RemoteMidi index="101" note="101" />
+		<RemoteMidi index="102" note="102" />
+		<RemoteMidi index="103" note="103" />
+		<RemoteMidi index="104" note="104" />
+		<RemoteMidi index="105" note="105" />
+		<RemoteMidi index="106" note="106" />
+		<RemoteMidi index="107" note="107" />
+		<RemoteMidi index="108" note="108" />
+		<RemoteMidi index="109" note="109" />
+		<RemoteMidi index="110" note="110" />
+		<RemoteMidi index="111" note="111" />
+		<RemoteMidi index="112" note="112" />
+		<RemoteMidi index="113" note="113" />
+		<RemoteMidi index="114" note="114" />
+		<RemoteMidi index="115" note="115" />
+		<RemoteMidi index="116" note="116" />
+		<RemoteMidi index="117" note="117" />
+		<RemoteMidi index="118" note="118" />
+		<RemoteMidi index="119" note="119" />
+		<RemoteMidi index="120" note="120" />
+		<RemoteMidi index="121" note="121" />
+		<RemoteMidi index="122" note="122" />
+		<RemoteMidi index="123" note="123" />
+		<RemoteMidi index="124" note="124" />
+		<RemoteMidi index="125" note="125" />
+		<RemoteMidi index="126" note="126" />
+		<RemoteMidi index="127" note="127" />
+	</MidiRemotes>
+</MA>
