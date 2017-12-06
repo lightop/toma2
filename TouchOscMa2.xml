@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.2.2/MA.xsd" major_vers="3" minor_vers="2" stream_vers="2">
-	<Info datetime="2017-02-01T17:38:06" showfile="testshow" />
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.3.4/MA.xsd" major_vers="3" minor_vers="3" stream_vers="4">
+	<Info datetime="2017-12-06T18:30:43" showfile="beauty2" />
 	<MidiRemotes index="1">
 		<RemoteMidi index="0" note="1" channel="3" type="hardkey" tasten_code="View1" />
 		<RemoteMidi index="1" note="2" channel="3" type="hardkey" tasten_code="View2" />
@@ -195,5 +195,52 @@
 		<RemoteMidi index="190" note="27" channel="4" type="hardkey" tasten_code="DefPause" />
 		<RemoteMidi index="191" note="28" channel="4" type="hardkey" tasten_code="DefGoMinus" />
 		<RemoteMidi index="192" note="29" channel="4" type="hardkey" tasten_code="DefGoPlus" />
+		<RemoteMidi index="193" type="hardkey" />
+		<RemoteMidi index="194" type="hardkey" />
+		<RemoteMidi index="195" note="1" channel="10" type="macro_line">
+			<macro_line>Feature $feature.1 At + 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="196" note="2" channel="10" type="macro_line">
+			<macro_line>Feature $feature.2 At + 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="197" note="3" channel="10" type="macro_line">
+			<macro_line>Feature $feature.3 At + 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="198" note="4" channel="10" type="macro_line">
+			<macro_line>Feature $feature.4 At + 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="199" note="5" channel="10" type="macro_line">
+			<macro_line>PresetType 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="200" note="6" channel="10" type="macro_line">
+			<macro_line>PresetType 2</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="201" note="7" channel="10" type="macro_line">
+			<macro_line>PresetType 3</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="202" note="8" channel="10" type="macro_line">
+			<macro_line>PresetType 4</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="203" note="9" channel="10" type="macro_line">
+			<macro_line>PresetType 5</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="204" note="10" channel="10" type="macro_line">
+			<macro_line>PresetType 6</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="205" note="11" channel="10" type="macro_line">
+			<macro_line>PresetType 7</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="206" note="21" channel="10" type="macro_line">
+			<macro_line>Feature $feature.1 At - 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="207" note="22" channel="10" type="macro_line">
+			<macro_line>Feature $feature.2 At - 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="208" note="23" channel="10" type="macro_line">
+			<macro_line>Feature $feature.3 At - 1</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="209" note="24" channel="10" type="macro_line">
+			<macro_line>Feature $feature.4 At - 1</macro_line>
+		</RemoteMidi>
 	</MidiRemotes>
 </MA>
